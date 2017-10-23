@@ -1,0 +1,14 @@
+(dp0
+S'price'
+p1
+(lp2
+I50
+aI60
+asS'fruit'
+p3
+(lp4
+S'apple'
+p5
+aS'orange'
+p6
+as.
