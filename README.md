@@ -24,7 +24,7 @@
 
     queue,pool handle,sharing cache
 
-    ref: https://www.youtube.com/playlist?list=PLXO45tsB95cJgYDaJbwhg629-Il5cfkhe
+   ref: https://www.youtube.com/playlist?list=PLXO45tsB95cJgYDaJbwhg629-Il5cfkhe
 
 #### Numpy & Pandas
 
@@ -50,6 +50,8 @@
     
     matplotlib : plot
     
+   ref: https://www.youtube.com/playlist?list=PLXO45tsB95cKKyC45gatc8wEc3Ue7BlI4
+    
 #### Matplotlib
 
   *learning target
@@ -57,7 +59,8 @@
     plot chart: bar,contour,scatter,3d,
      
     add,modify: visibility,legend,axes,custom-annotation,animation,sub-plot grid,2yaxis
-      
+   
+   ref: https://www.youtube.com/playlist?list=PLXO45tsB95cKiBRXYqNNCw8AUo6tYen3l
         
 #### Thanks for author 周莫烦 Python 視頻教學
 
