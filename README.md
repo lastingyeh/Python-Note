@@ -49,6 +49,14 @@
     pandas : join,concat,select,set
     
     matplotlib : plot
+    
+#### Matplotlib
+
+  *learning target
+   
+    plot chart: bar,contour,scatter,3d,
+     
+    add,modify: visibility,legend,axes,custom-annotation,animation,sub-plot grid,2yaxis
       
         
 #### Thanks for author 周莫烦 Python 視頻教學

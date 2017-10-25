@@ -1,15 +1,27 @@
 <component name="ProjectDictionaryState">
   <dictionary name="yuhung">
     <words>
+      <w>cmap</w>
+      <w>contourf</w>
+      <w>cstride</w>
       <w>cumsum</w>
       <w>dropna</w>
+      <w>facecolors</w>
+      <w>ffmpeg</w>
       <w>fillna</w>
+      <w>gridspec</w>
       <w>hsplit</w>
       <w>iloc</w>
+      <w>imshow</w>
       <w>matplotlib</w>
+      <w>mencoder</w>
       <w>newaxis</w>
+      <w>rstride</w>
       <w>sudo</w>
+      <w>vmax</w>
+      <w>vmin</w>
       <w>vsplit</w>
+      <w>zdir</w>
     </words>
   </dictionary>
 </component>
