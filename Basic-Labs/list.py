@@ -1,3 +1,7 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+
 a = [1, 2, 3, 4, 5]
 
 a.insert(1, 6)
@@ -11,3 +15,7 @@ print('index-value search', a.index(6))
 print('count value', a.count(6))
 print('sort', a.sort())
 print('sorted list a', a)
+
+x = list[1, 2, 3,]
+
+

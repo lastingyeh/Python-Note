@@ -54,7 +54,7 @@
     
 ## Matplotlib
    
-    plot chart: bar,contour,scatter,3d,
+    plot chart: bar,contour,scatter,3d
      
     add,modify: visibility,legend,axes,custom-annotation,animation,sub-plot grid,2yaxis
    
